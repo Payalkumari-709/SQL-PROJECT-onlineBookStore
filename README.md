@@ -1,2 +1,16 @@
 # SQL-PROJECT-onlineBookStore
-This Project has sql queries related to books ,customers and their orders data.
+# SQL Project
+
+## Description
+This project contains SQL queries and datasets.This project contains SQL queries and dataset for an online bookstore system.
+
+## Files
+- data → Excel files
+- -books.csv
+- -Customers.csv
+- -Orders.csv
+- queries → SQL queries
+
+## Tools Used
+- PostgreSQL
+- pgAdmin
